@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<GingerRepositoryItem><Header ItemGuid="f59c5a6f-201e-47f9-8932-c80a4fe9081d" ItemType="Solution" CreatedBy="meni" Created="202310131138" GingerVersion="23.4.0.0" Version="3" LastUpdateBy="meni" LastUpdate="202310131219" />
+<GingerRepositoryItem><Header ItemGuid="f59c5a6f-201e-47f9-8932-c80a4fe9081d" ItemType="Solution" CreatedBy="meni" Created="202310131138" GingerVersion="23.4.0.0" Version="7" LastUpdateBy="meni" LastUpdate="202310161844" />
 <Solution EncryptedValidationString="L2fOMV98WXkh/Owu9eboJA==" Guid="f59c5a6f-201e-47f9-8932-c80a4fe9081d" Name="E2EOTOMA2" ParentGuid="00000000-0000-0000-0000-000000000000">
 <ApplicationPlatforms>
 <ApplicationPlatform AppName="MyWebServicesApp" Guid="a6056728-8200-4f81-b7f2-4b178ea5cbb3" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="WebServices" />
 <ApplicationPlatform AppName="MyWebApp" Description="Web Application" Guid="b4ec2545-c22b-4a78-8072-49ff957cd72d" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" />
+<ApplicationPlatform AppName="MyWebServicesApp2" Description="WebServices Application" Guid="da0156c8-dda1-4f4e-bbcb-a6d5fffb7655" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="WebServices" />
 </ApplicationPlatforms>
 
 <ApplitoolsConfiguration>
